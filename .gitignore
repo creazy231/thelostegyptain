@@ -11,3 +11,6 @@ npm-debug.log
 
 # Files
 package-lock.json
+
+#Folders
+.idea
