@@ -82,7 +82,7 @@
             <div class="footer-copyright py-3 text-center">
                 © 2018 Copyright: GameBreakers,
                 <a href="https://www.bib.de/de/standorte/paderborn.html"> bib International College</a>
-                <a class="github" href="#"><i class="fa fa-github"></i></a>
+                <a class="github" href="https://github.com/creazy231/thelostegyptain" target="_blank"><i class="fa fa-github"></i></a>
             </div>
             <!--/Copyright-->
 
